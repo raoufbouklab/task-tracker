@@ -11,6 +11,12 @@
       "day": "Feb 6th at 16pm",
       "reminder": false,
       "id": 3
+    },
+    {
+      "text": "Shopping",
+      "day": "Feb 5th at 15:30pm",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
